@@ -2,21 +2,26 @@
 
 Guided projected made during the "Next Level Week" Offered by Rocketseat
 
-## :rocket: Technologies
+# :computer: Technologies
+This project was made using the follow technologies:
 
-This project was developed using these technologies::
-
--  [ReactJS](https://reactjs.org/)
--  [Node.js](nodejs)
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Expo](https://expo.io/)       
+* [Express](https://expressjs.com/)    
 
 ## :information_source: Get Started
 
 ```bash
 # Clone
 $ git clone https://github.com/jjeanjacques10/
-proffy.git
 
-$ cd proffy
-$ npm install
-$ npm start
+# Go to web folder
+$ cd Proffy/web
+
+# Install Dependencies
+$ yarn install
+
+# Run Aplication
+$ yarn start
 ```
